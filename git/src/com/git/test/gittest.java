@@ -6,6 +6,7 @@ public class gittest {
 		
 		int x=0;
 		int n=0;
+		int nn=0;
 	}
 	public void sum(){
 		int xx=0;
