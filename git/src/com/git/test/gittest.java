@@ -6,7 +6,9 @@ public class gittest {
 		
 		int x=0;
 	}
-	public void sum(){}
+	public void sum(){
+		int xx=0;
+	}
 	public void cvm(){}
 
 }
