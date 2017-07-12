@@ -7,5 +7,6 @@ public class gittest {
 		
 	}
 	public void sum(){}
+	public void cvm(){}
 
 }
